@@ -43,3 +43,9 @@
 [submodule "bundle/vim-snippets"]
 	path = bundle/vim-snippets
 	url = git@github.com:honza/vim-snippets.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git@github.com:majutsushi/tagbar.git
+[submodule "bundle/simple-pair"]
+	path = bundle/simple-pair
+	url = git@github.com:vim-scripts/simple-pairs.git
