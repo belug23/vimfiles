@@ -49,3 +49,6 @@
 [submodule "bundle/simple-pair"]
 	path = bundle/simple-pair
 	url = git@github.com:vim-scripts/simple-pairs.git
+[submodule "bundle/minibufexpl.vim"]
+	path = bundle/minibufexpl.vim
+	url = git@github.com:fholgado/minibufexpl.vim.git
