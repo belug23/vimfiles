@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/belug/.ssh'
+let g:netrw_dirhist_2='/home/belug/dev/oss/.git'
+let g:netrw_dirhist_3='/home/belug/dev/oss'
+let g:netrw_dirhist_4='/home/belug/.vim/bundle'
