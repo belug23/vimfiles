@@ -17,7 +17,7 @@ fi
 
 #Installing the base directory of the vim files
 cd ~/
-git clone git@github.com:belug23/vimfiles.git
+git clone https://github.com/belug23/vimfiles.git
 
 ln -s vimfiles .vim
 ln -s vimfiles/.vimrc .vimrc
