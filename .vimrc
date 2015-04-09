@@ -71,6 +71,10 @@ set autoread
 let mapleader = ","
 let g:mapleader = ","
 
+
+" Ignore pyc files
+let NERDTreeIgnore = ['\.pyc$']
+
 " Fast saving
 nmap <leader>w :w!<cr>
 
