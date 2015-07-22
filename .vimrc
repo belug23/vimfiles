@@ -2,6 +2,7 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 
+set mouse=a
 set number
 
 " nmap <silent> <leader>vv :e $MYVIMRC<CR>
